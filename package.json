@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@google/genai": "^1.29.1"
-  },
-  "devDependencies": {
+    "@google/genai": "^1.29.1",
     "typescript": "^5.4.5",
     "@types/node": "^20.14.2"
-  }
+  },
+  "devDependencies": {}
 }
